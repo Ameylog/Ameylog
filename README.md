@@ -30,29 +30,29 @@ system design, and full-stack development.
 
 ---
 
-## 🧑‍💻 Tech Stack
+## 🧑‍💻 Skills
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite" height="40" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" height="40"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,docker,npm" height="40"/>
 </p>
 
 ### Currently Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=aws" height="40"/>
 </p>
 
 ---
